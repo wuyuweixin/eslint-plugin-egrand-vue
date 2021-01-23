@@ -17,7 +17,16 @@
   }
 }
 ```
-
+## dependencies
+```json
+"@vue/eslint-config-standard": "^5.1.2",
+"babel-eslint": "^10.1.0",
+"eslint-plugin-import": "^2.22.1",
+"eslint-plugin-node": "^11.1.0",
+"eslint-plugin-promise": "^4.2.1",
+"eslint-plugin-standard": "^5.0.0",
+"eslint-plugin-vue": "^7.5.0"
+```
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
