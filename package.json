@@ -1,0 +1,28 @@
+{
+  "name": "eslint-plugin-egrand-vue",
+  "version": "1.0.1",
+  "description": "eslint plugin for egrand",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuyuweixin/eslint-plugin-egrand-vue.git"
+  },
+  "author": "Simple",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuyuweixin/eslint-plugin-egrand-vue/issues"
+  },
+  "homepage": "https://github.com/wuyuweixin/eslint-plugin-egrand-vue#readme",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "peerDependencies": {
+    "eslint": "^5.11.1 || ^6.0.0"
+  },
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^6.8.0",
+    "eslint-plugin-vue": "^7.5.0",
+    "mocha": "^8.2.1"
+  }
+}
